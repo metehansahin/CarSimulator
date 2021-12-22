@@ -1,0 +1,36 @@
+{"styles": [
+    {
+        "cars": [
+            {
+                "engine force": 2500,
+                "drag area": 0.41,
+                "weight": 3000,
+                "model": "urus"
+            },
+            {
+                "engine force": 1500,
+                "drag area": 0.55,
+                "weight": 2500,
+                "model": "cherokee"
+            }
+        ],
+        "name": "suv"
+    },
+    {
+        "cars": [
+            {
+                "engine force": 1500,
+                "drag area": 0.21,
+                "weight": 2000,
+                "model": "tesla"
+            },
+            {
+                "engine force": 1700,
+                "drag area": 0.3,
+                "weight": 1800,
+                "model": "audi"
+            }
+        ],
+        "name": "sedan"
+    }
+]}
